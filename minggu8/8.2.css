@@ -1,0 +1,19 @@
+p {
+    font-family: 'Trebuchet MS';
+    line-height: 2em;
+    color: blueviolet;
+   }
+   i {
+    font-family: Impact;
+    color: rgb(0, 255, 234);
+   }
+   h2 {
+    font-family: 'Courier New';
+    color: rgb(214, 21, 140);}
+    body{
+        background-image: 
+        url(gmbr.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+   
